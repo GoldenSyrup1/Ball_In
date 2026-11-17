@@ -1,0 +1,118 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `server/test/listing.test.js` with all 7 unit tests and 5 property tests": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953941553
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953951124
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954295020
+      }
+    ],
+    "2. Checkpoint — confirm tests fail with MODULE_NOT_FOUND": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953943641
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954299467
+      }
+    ],
+    "3.1 Define and export the three named error classes": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953943753
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954303744
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954319142
+      }
+    ],
+    "3.2 Implement `createListing(db, holdingId, sellerUserId)` inside `db.transaction(...)`": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953943875
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954323286
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954396281
+      }
+    ],
+    "4. Checkpoint — run full test suite": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953943965
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954400014
+      }
+    ],
+    "5.1 Stage and commit the two new files": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794953944011
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954403435
+      },
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954425166
+      }
+    ],
+    "1. Write the failing test file": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954295233
+      }
+    ],
+    "3. Implement `server/src/models/listing.js`": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954396395
+      }
+    ],
+    "5. Commit": [
+      {
+        "executionId": "e19bbca6-4969-4645-b3db-8290cb31df70",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794954425318
+      }
+    ]
+  }
+}

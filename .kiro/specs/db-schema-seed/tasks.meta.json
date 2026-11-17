@@ -1,0 +1,164 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Create `server/package.json`": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794888487912
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889479686
+      }
+    ],
+    "2.1 Write the three unit tests (schema + seed)": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483288
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889490005
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889533746
+      }
+    ],
+    "3. Run tests to confirm they fail": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483452
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889537787
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889564911
+      }
+    ],
+    "4.1 Write the 7 `CREATE TABLE IF NOT EXISTS` statements in dependency order": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483528
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889568897
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889599122
+      }
+    ],
+    "5.1 Write `getDb(dbPath)` using CommonJS exports": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483578
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889605928
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889634030
+      }
+    ],
+    "6.1 Write `seed(db)` using CommonJS exports and INSERT OR IGNORE": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483622
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889637538
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889672722
+      }
+    ],
+    "7. Run tests to confirm they pass": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483669
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889676444
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794890003607
+      }
+    ],
+    "8. Checkpoint — Ensure all tests pass, ask the user if questions arise.": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889483777
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794890007439
+      },
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794890949732
+      }
+    ],
+    "2. Write failing tests in `server/test/db.test.js`": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889533837
+      }
+    ],
+    "4. Implement `server/src/db/schema.sql`": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889599268
+      }
+    ],
+    "5. Implement `server/src/db/index.js`": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889634167
+      }
+    ],
+    "6. Implement `server/src/db/seed.js`": [
+      {
+        "executionId": "bc5ecd53-4b9b-42c4-b43c-3a31955a0e99",
+        "chatSessionId": "sess_26dd7051-7d31-4469-9736-43232b571948",
+        "timestamp": 1794889672788
+      }
+    ]
+  }
+}
