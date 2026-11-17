@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS inventory_holdings (
   id              INTEGER PRIMARY KEY,
   user_id         TEXT    NOT NULL,
   product_id      INTEGER NOT NULL REFERENCES products(id),
-  quantity        INTEGER NOT NULL CHECK(quantity >= 1),
+  quantity        INTEGER NOT NULL CHECK(quantity >= 0),
   unit_cost_cents INTEGER NOT NULL CHECK(unit_cost_cents >= 1),
   created_at      TEXT    NOT NULL
 );
